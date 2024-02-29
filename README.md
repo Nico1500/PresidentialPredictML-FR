@@ -13,7 +13,7 @@ Ce projet d'etude était l'application du Machine Learning pour prédire les ré
 ## Résultats Clés
 
 - Une **précision de 59%** a été obtenue en utilisant des techniques de régression standards.
-- En essayant **des modèles de boosting**, la précision a été améliorée, en atteignant **89%**.
+- En essayant des modèles de **boosting**, la précision a été améliorée, en atteignant **89%**.
 
 ## Limitations
 
